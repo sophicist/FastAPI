@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 18 13:07:51 2020
 
-@author: win10
-"""
-#pip install fastapi uvicorn
 
 # 1. Library imports
 import uvicorn ##ASGI
